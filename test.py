@@ -29,6 +29,7 @@ fig = Figure('198,57', '19,1')
 print(fig.length())
 print(tri.length())
 
+
 """
 # Вычисляет длины сторон треугольника по координатам вершин
     def side_length(self):
